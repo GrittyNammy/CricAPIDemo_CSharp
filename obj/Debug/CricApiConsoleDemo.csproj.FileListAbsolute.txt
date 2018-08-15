@@ -1,6 +1,0 @@
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\bin\Debug\CricApiConsoleDemo.exe.config
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\bin\Debug\CricApiConsoleDemo.exe
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\bin\Debug\CricApiConsoleDemo.pdb
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\obj\Debug\CricApiConsoleDemo.csprojResolveAssemblyReference.cache
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\obj\Debug\CricApiConsoleDemo.exe
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\obj\Debug\CricApiConsoleDemo.pdb
