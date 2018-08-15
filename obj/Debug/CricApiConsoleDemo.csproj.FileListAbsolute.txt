@@ -1,1 +1,0 @@
-F:\Namdev\Projects\CricAPINetDemo\CricApiConsoleDemo\bin\Debug\CricApiConsoleDemo.exe.config
